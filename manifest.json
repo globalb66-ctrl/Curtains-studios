@@ -1,0 +1,20 @@
+{
+  "name": "Curtain Studio",
+  "short_name": "Curtains",
+  "description": "Design curtains on your client's wall photo: Gulf, Egypt and Europe styles, fabrics, holders, lighting and before/after presentation.",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e130e",
+  "theme_color": "#1e130e",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["business", "lifestyle", "productivity"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
